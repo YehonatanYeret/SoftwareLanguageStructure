@@ -6,13 +6,14 @@ def is_prime(n):
 
 
 def twin_prime(n):
-    if is_prime(n + 2):
-        if is_prime(n - 2):
-            return n - 2, n + 2  # for case there is 2 twins
-        return n + 2
-    if is_prime(n - 2):
-        return n - 2
-    return None
+    if not n.isdigit() or not is_prime(int(n)):
+        return "invalid input"
+    num = int(n)
+    if is_prime(num + 2):  # first check the follower number
+        return num + 2
+    if is_prime(num - 2):
+        return num - 2
+    return "invalid input"
 
 
 def dict_of_twins(n):
@@ -21,12 +22,8 @@ def dict_of_twins(n):
 
 def main():
     n = input("enter prime number:\n").strip()
-    if not n.isdigit() or not is_prime(int(n)) or not twin_prime(int(n)):
-        print("invalid input")
-    else:
-        print(twin_prime(int(n)))
+    print(twin_prime(n))
 
 
 if __name__ == "__main__":
     main()
-
