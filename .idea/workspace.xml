@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a783ce6f-89e5-4449-88cb-87f92dfcc943" name="Changes" comment="finish I hope">
+    <list default="true" id="a783ce6f-89e5-4449-88cb-87f92dfcc943" name="Changes" comment="start of the sub2">
+      <change afterPath="$PROJECT_DIR$/sub2/ex5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub1/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub1/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub1/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub1/ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub2/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub2/ex4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +81,29 @@
       <option name="project" value="LOCAL‎" />
       <updated>1756932784429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="fix what Goldstein said about ex4">
+      <option name="closed" value="true" />
+      <created>1756975600081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1756975600082</updated>
+    </task>
+    <task id="LOCAL‎-00003" summary="start of the sub2">
+      <option name="closed" value="true" />
+      <created>1757418208798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1757418208798</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish I hope" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish I hope" />
+    <MESSAGE value="fix what Goldstein said about ex4" />
+    <MESSAGE value="start of the sub2" />
+    <option name="LAST_COMMIT_MESSAGE" value="start of the sub2" />
   </component>
 </project>
