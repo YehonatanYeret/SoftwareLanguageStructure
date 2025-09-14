@@ -16,7 +16,7 @@ func = lambda x: x / 2 + 2
 # by applying him the linear func. a[0] is the list that we will return and a[1] is the sum till now
 linear_sum = lambda lst: reduce(lambda a, x: (a[0] + [x + func(a[1])], a[1] + x + func(a[1])), lst, ([], 0))[0]
 
-
+ 
 def main():
     print(f"sum of the cumulative product on the evens: {sum(cumulative_product(l_evens, 100))}")
     print(f"sum of the linear sum on the odds: {sum(linear_sum(l_odds))}")

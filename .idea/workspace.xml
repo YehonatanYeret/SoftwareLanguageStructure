@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a783ce6f-89e5-4449-88cb-87f92dfcc943" name="Changes" comment="start of the sub2">
-      <change afterPath="$PROJECT_DIR$/sub2/ex5.py" afterDir="false" />
+    <list default="true" id="a783ce6f-89e5-4449-88cb-87f92dfcc943" name="Changes" comment="finish the sub2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub2/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub2/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub2/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub2/ex2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +96,30 @@
       <option name="project" value="LOCAL‎" />
       <updated>1757418208798</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎-00004" summary="finish the sub2">
+      <option name="closed" value="true" />
+      <created>1757446217635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1757446217635</updated>
+    </task>
+    <task id="LOCAL‎-00005" summary="finish the sub2">
+      <option name="closed" value="true" />
+      <created>1757671518698</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1757671518698</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish I hope" />
     <MESSAGE value="fix what Goldstein said about ex4" />
     <MESSAGE value="start of the sub2" />
-    <option name="LAST_COMMIT_MESSAGE" value="start of the sub2" />
+    <MESSAGE value="finish the sub2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish the sub2" />
   </component>
 </project>
