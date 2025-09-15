@@ -5,7 +5,7 @@ def task_manager():
         tasks[name] = state
 
     def get_tasks():
-        return tasks
+        return tasks.copy()
 
     def complete_task(name):
         if name in tasks:
