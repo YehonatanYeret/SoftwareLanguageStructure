@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a783ce6f-89e5-4449-88cb-87f92dfcc943" name="Changes" comment="finish the sub2">
+    <list default="true" id="a783ce6f-89e5-4449-88cb-87f92dfcc943" name="Changes" comment="finish the start of sub3">
+      <change afterPath="$PROJECT_DIR$/sub3/generators_and_lazy_evaluation/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sub3/generators_and_lazy_evaluation/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sub3/generators_and_lazy_evaluation/ex3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub2/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub2/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +63,11 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\PycharmProjects\SoftwareLanguageStructure\sub3\recursion" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -112,7 +124,23 @@
       <option name="project" value="LOCAL‎" />
       <updated>1757671518698</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL‎-00006" summary="finish the sub2">
+      <option name="closed" value="true" />
+      <created>1757869868011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1757869868011</updated>
+    </task>
+    <task id="LOCAL‎-00007" summary="finish the start of sub3">
+      <option name="closed" value="true" />
+      <created>1757935737308</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL‎-00007" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1757935737308</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,6 +148,7 @@
     <MESSAGE value="fix what Goldstein said about ex4" />
     <MESSAGE value="start of the sub2" />
     <MESSAGE value="finish the sub2" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish the sub2" />
+    <MESSAGE value="finish the start of sub3" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish the start of sub3" />
   </component>
 </project>

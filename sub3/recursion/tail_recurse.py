@@ -1,5 +1,8 @@
 import sys
 
+#################################################################
+# The code from Goldshtein Colab that implements tail recursive #
+#################################################################
 
 class TailRecurseException(BaseException):
     def __init__(self, args, kwargs):

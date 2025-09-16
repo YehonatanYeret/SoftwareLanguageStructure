@@ -1,8 +1,8 @@
 from tail_recurse import tail_call_optimized
 
 
+# Zip the inner lists with * after sort the recursively
 def sortedzip(l):
-    @tail_call_optimized
     def sortedlists(l):
         if len(l) == 1:
             return sorted(l)
@@ -11,7 +11,9 @@ def sortedzip(l):
     return list(zip(*sortedlists(l)))
 
 
+# The same, but now we send the sorted part in parameter, so we get a tail
 def sortedzip_tail(l):
+    @tail_call_optimized
     def sortedlists(l, sl):
         if len(l) == 1:
             return sl + sorted(l)
@@ -21,8 +23,8 @@ def sortedzip_tail(l):
 
 
 def main():
-    lists = [[i] * 5 for i in range(1000)]
-    print(sortedzip(lists))
+    lists = [[3, 1, 2], [5, 6, 4], ['a', 'b', 'c']]
+    # print(sortedzip(lists))
     print(sortedzip_tail(lists))
 
 
