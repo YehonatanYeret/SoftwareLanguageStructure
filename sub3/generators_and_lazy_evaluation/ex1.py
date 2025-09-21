@@ -3,7 +3,7 @@ import time
 
 
 def gen_0_to_10000():
-    return list(range(10001))
+    return [i for i in range(10001)]
 
 
 def gen_0_to_10000_lazy():

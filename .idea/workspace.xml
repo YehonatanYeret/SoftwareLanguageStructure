@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a783ce6f-89e5-4449-88cb-87f92dfcc943" name="Changes" comment="finish the start of sub3">
-      <change afterPath="$PROJECT_DIR$/sub3/generators_and_lazy_evaluation/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub3/generators_and_lazy_evaluation/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub3/generators_and_lazy_evaluation/ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub3/recursion/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/sub3/recursion/ex5.py" afterDir="false" />
-    </list>
+    <list default="true" id="a783ce6f-89e5-4449-88cb-87f92dfcc943" name="Changes" comment="finish the start of sub3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
