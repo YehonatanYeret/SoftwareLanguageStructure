@@ -30,3 +30,7 @@ sorted([X, Y | Tail]):- X=<Y, sorted([Y|Tail]).
 permutation([],[]).
 permutation([X|L], P):- 
           permutation(L, L1), insert(X, L1, P).
+        
+% another option (that shown in the presentation):
+% permutation(L, [X | P]) :- del(X, L, L1), permutation(L1, P).
+
