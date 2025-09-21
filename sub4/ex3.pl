@@ -51,6 +51,7 @@ reverseNum(Num, RevNum) :-
     createList(Digits, RevNum).
 
 
+
 %3
 %3A
 in_list(X, [X|_]).
@@ -66,6 +67,7 @@ intersection([H|T],L2,[H|Z]):-
 intersection([H|T],L2,Z):-
     \+ in_list(H,L2),
     intersection(T,L2,Z).
+
 
 %3B
 minus([], _, []).
